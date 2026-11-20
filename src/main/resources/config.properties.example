@@ -1,0 +1,10 @@
+ssh.host=IP_PUBLICA_EC2
+ssh.port=22
+ssh.user=ubuntu
+ssh.key=C:/Users/TU_USUARIO/Downloads/tu-llave.pem
+rds.host=ENDPOINT_REAL_RDS
+rds.port=3306
+local.port=3307
+db.name=cafe_central
+db.user=app_desktop
+db.password=CAMBIA_ESTA_CLAVE
